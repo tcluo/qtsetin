@@ -1,0 +1,2 @@
+cp <theme>.xml to ~/.config/QtProject/qtcreator/styles
+import <keyboard>.kms from qt creator
